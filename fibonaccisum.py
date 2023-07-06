@@ -1,4 +1,4 @@
-Code -
+
 from tkinter import *
 root = Tk()
 
@@ -16,7 +16,7 @@ def Fibonacci():
     second_no = 1
     sum = 0
     counter = 1
-    while (counter {= num):
+    while (counter <= num):
         sum2 = sum2 + sum
         counter += 1
         first_no = second_no
